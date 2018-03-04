@@ -1,0 +1,35 @@
+This C# challenge tests your knowledge of Extension methods.
+
+Write an extension method for int that would check if a number is Fibonacci number. User should be able to call it like this:
+> 123.IsFibonacci();
+
+or like this:
+> var a = 5;
+> a.IsFibonacci();
+
+Input is handled for you by the locked stub code in your editor.
+
+Output Format
+
+The locked stub code in your editor will print  lines of output.
+
+Sample #1
+The line that contains an integer.
+> 8
+
+Sample Output
+> True
+
+Sample #2
+The line that contains an integer.
+> 13
+
+Sample Output
+> True
+
+Sample #3
+The line that contains an integer.
+> 14
+
+Sample Output
+> False
