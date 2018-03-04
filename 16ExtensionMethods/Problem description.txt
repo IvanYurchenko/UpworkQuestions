@@ -7,28 +7,28 @@ or like this:
 > var a = 5;
 > a.IsFibonacci();
 
-Input is handled for you by the locked stub code in your editor.
+Input Format
+The line that contains an integer.
 
 Output Format
+The line that contains a boolean (True/False).
 
-The locked stub code in your editor will print  lines of output.
-
-Sample #1
-The line that contains an integer.
+#1
+Sample Input
 > 8
 
 Sample Output
 > True
 
-Sample #2
-The line that contains an integer.
+#2
+Sample Input
 > 13
 
 Sample Output
 > True
 
-Sample #3
-The line that contains an integer.
+#3
+Sample Input
 > 14
 
 Sample Output
