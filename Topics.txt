@@ -1,30 +1,30 @@
-C# Fundamentals - 
-❖ Naming Conventions
-❖ Lexical Elements
-❖ Type Basics
-❖ Classes and Structs
-❖ Interfaces
-❖ Enumeration Types
-❖ Delegates
-❖ Arrays
-❖ Strings
-❖ Properties
-❖ Indexers
-❖ Events
-❖ Collections
-❖ Generics
-❖ Iterators
-❖ Extension Methods
-❖ Anonymous Types
+❖ 1? Naming Conventions
+❖ 2? Lexical Elements
+❖ 3 Type Basics
+❖ 4 Classes and Structs
+❖ 5 Interfaces
+❖ 6 Enumeration Types
+❖ 7 Delegates
+❖ 8 Arrays
+❖ 9 Strings
+❖ 10 Properties
+❖ 11 Indexers
+❖ 12 Events
+❖ 13 Collections
+❖ 14 Generics
+❖ 15 Iterators
+❖ 16 Extension Methods
+❖ 17 Anonymous Types
 
-❖ Routing
-❖ Exception Handling
-❖ Security Handling
-❖ Mappers
-❖ Push / Patch / Get
-❖ LinQ and Threads (Synchronous and Asynchronous)
-❖ Entity Relationships
-❖ Logging concepts
-❖ Event Handling - Built in delegates
-❖ Lambda expressions
-❖ Delegates
+❖ 18? Routing
+❖ 19 Exception Handling
+❖ 20? Security Handling
+❖ 21? Mappers
+❖ 22? Push / Patch / Get
+❖ 23 LinQ
+❖ 24 Threads (Synchronous and Asynchronous)
+❖ 25? Entity Relationships
+❖ 26? Logging concepts
+❖ 27 Event Handling - Built in delegates
+❖ 28? Lambda expressions
+❖ 29 (duplicate) Delegates
