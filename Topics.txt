@@ -4,7 +4,7 @@
 ❖ 4 Classes and Structs
 ❖ 5 Interfaces
 ❖ 6 Enumeration Types
-❖ 7 Delegates
+❖ Delegates
 ❖ 8 Arrays
 ❖ 9 Strings
 ❖ 10 Properties
@@ -13,18 +13,18 @@
 ❖ 13 Collections
 ❖ 14 Generics
 ❖ 15 Iterators
-❖ 16 Extension Methods
+❖ V 16 Extension Methods
 ❖ 17 Anonymous Types
 
 ❖ 18? Routing
 ❖ 19 Exception Handling
 ❖ 20? Security Handling
-❖ 21? Mappers
+❖ 21 Mappers
 ❖ 22? Push / Patch / Get
 ❖ 23 LinQ
 ❖ 24 Threads (Synchronous and Asynchronous)
 ❖ 25? Entity Relationships
-❖ 26? Logging concepts
+❖ 26 Logging concepts
 ❖ 27 Event Handling - Built in delegates
-❖ 28? Lambda expressions
-❖ 29 (duplicate) Delegates
+❖ 28 Lambda expressions
+❖ 29 V Delegates
