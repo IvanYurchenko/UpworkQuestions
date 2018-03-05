@@ -1,0 +1,30 @@
+This C# challenge tests your knowledge of C# Type Basics.
+
+Write a method that will check if a Payer is able to send given amount of money to Payee. Return True or False as a result. Think about all possible cases.
+
+Input Format
+Three line that contains integers:
+Payer balance
+Payee balance
+Sending amoung
+
+Output Format
+The line that contains a boolean (True/False).
+
+#1
+Sample Input
+> 50
+> 100
+> 30
+
+Sample Output
+> True
+
+#2
+Sample Input
+> 2000
+> 5000
+> 2500
+
+Sample Output
+> False
