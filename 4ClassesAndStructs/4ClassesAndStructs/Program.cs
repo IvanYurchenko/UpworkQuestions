@@ -12,6 +12,7 @@
         static void Main(string[] args)
         {
             var account = new Account();
+            account.IncreaseUserBalance(50);
         }
     }
 
