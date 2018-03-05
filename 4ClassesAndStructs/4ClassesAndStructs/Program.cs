@@ -20,6 +20,7 @@
     {
         private User _user;
 
+        #region The code that we allow to change
         public User User
         {
             get { return _user; }
@@ -38,5 +39,6 @@
         {
             User.Balance = 0;
         }
+        #endregion
     }
 }

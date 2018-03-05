@@ -1,0 +1,4 @@
+If you look at the code you'll notice there is User struct which has FirstName, LastName and Balance properties. Also there is an Account class that contains a user inside and allows to make some operations with that User. This code doesn't work properly. Find problems in the code and fix them.
+
+Tags:
+classes, structs, broken code, fields, properties
