@@ -1,4 +1,4 @@
-If you look at the code you'll notice there is User struct which has FirstName, LastName and Balance properties. Also there is an Account class that contains a user inside and allows to make some operations with that User. This code doesn't work properly. Find problems in the code and fix them.
+Real-world banking applications have users and accounts. Accounts are linked to specific users and allow to make some operations on that users. In our very simplified application that reflects a real-world one we have a User struct which has the following properties: FirstName, LastName and Balance. Also, there is an Account class that contains a User inside and allows to make some operations with that User, right as in real world applications, just much more simple. This code for some reason doesn't work properly. If you are familiar with both structs and classes in C# you should be easily able to find problems in the code and fix them.
 
 Tags:
 classes, structs, broken code, fields, properties
